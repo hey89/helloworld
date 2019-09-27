@@ -1,0 +1,11 @@
+$ cd /Users/home/hong/class/DiscreteMathematic/Assignment/01
+$ touch README.md
+$ git init
+$ git add .
+$ git commit -a -m "initial commit"
+$ git remote add origin **path to the reposity (git@github.com:hongbyungwoo/assignment01.git)**
+$ git push -u origin master
+$ git commit -a -m "second commit"
+$ git push -u origin master
+$ git commit -a -m "third commit"
+$ git push -u origin master
